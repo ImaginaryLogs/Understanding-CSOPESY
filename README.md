@@ -55,3 +55,7 @@ To get started with this repository:
 ## Contacts
 
 For questions, mistakes, or feedback, feel free to reach out via:
+@ImaginaryLogs
+
+- Email: [roan_campo@dlsu.edu.ph](mailto:roan_campo@dlsu.edu.ph), [campo.roancedric@gmail.com](mailto:campo.roancedric@gmail.com)
+- Github Issues: [Open an Issue](https://github.com/EvilConundrum/Understanding-CSOPESY/issues)
